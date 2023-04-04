@@ -55,12 +55,7 @@
 	  "description": "Only for automated deploys, please don't enter anything!"
 	}
   },
-  "formation": {
-	"web": {
-	  "quantity": 1,
-	  "size": "free"
-	}
-  },
+
   "addons": [
 	{
 	  "plan": "jawsdb-maria:kitefin"
