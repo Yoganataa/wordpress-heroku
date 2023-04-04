@@ -72,9 +72,6 @@
 	  "plan": "scheduler:standard"
 	},
 	{
-	  "plan": "heroku-redis:hobby-dev"
-	},
-	{
 	  "plan": "papertrail:choklad"
 	}
   ],
